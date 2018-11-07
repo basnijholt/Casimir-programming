@@ -5,6 +5,6 @@ def f(x):
     return x
 
 def g(x):
-    "this is a sweet docstring"
+    "this is a sweet docstring. No matter what bas says."
     return x**2
 
